@@ -6,7 +6,7 @@ random shuffling string s and then adding one more letter at a random position. 
 that was added to string s.
 
 I chose to try two different solutions, one by using a HashMap and one by using an array of 26 characters representing
-the letter of the alphabet.
+the letters of the alphabet.
 
 The time and space complexity for both solutions are the same.
 
